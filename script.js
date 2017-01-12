@@ -1,4 +1,7 @@
 $(document).ready(function(){
+	var $width = $(window).height();
+	var $height = $(window).width();
+	$('#baseballgame').css({"width":$width,"height":$height});
 	$('#figure1').draggable();
 	$('#figure2').draggable();
 	$('#figure3').draggable();
