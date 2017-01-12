@@ -1,0 +1,89 @@
+body{
+	 width: 100%;
+     height: 100%;
+     margin: 0;
+     padding: 0;
+}
+#baseballgame {
+	position: fixed;
+	width: 768px;
+    height: 1024px;
+    margin: 0;
+    padding: 0;
+    background-image: url("field.png");
+}
+#ball{
+	width: 22px;
+	height: 22px;
+	background-image: url("bball.png");
+}
+#figure1{
+	position: relative;
+	width: 25px;
+	height: 40px;
+}
+#figure2{
+	position: relative;
+	width: 25px;
+	height: 40px;
+}
+#figure3{
+	position: relative;
+	width: 25px;
+	height: 40px;
+}
+#figure4{
+	position: relative;
+	width: 25px;
+	height: 40px;
+}
+#figure5{
+	position: relative;
+	width: 25px;
+	height: 40px;
+}
+#figure6{
+	position: relative;
+	width: 25px;
+	height: 40px;
+}
+#figure7{
+	position: relative;
+	width: 25px;
+	height: 40px;
+}
+#figure8{
+	position: relative;
+	width: 25px;
+	height: 40px;
+}
+#figure9{
+	position: relative;
+	width: 25px;
+	height: 40px;
+}
+#head{
+	position: relative;
+	height: 25px;
+	width: 24px;
+	border-radius: 100%;
+	background-color: #f0b27a;
+}
+#bluebody{
+	position: relative;
+	height: 15px;
+	width: 20px;
+	border-radius: 5px;
+	background-color: blue;
+	left: 2px;
+	top: -2px;
+}
+#redbody{
+	position: relative;
+	height: 15px;
+	width: 20px;
+	border-radius: 5px;
+	background-color: red;
+	left: 2px;
+	top: -2px;
+}
