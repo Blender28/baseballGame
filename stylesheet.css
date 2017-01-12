@@ -9,11 +9,8 @@ body{
     margin: 0;
     padding: 0;
     background-image: url("field.png");
-    background-repeat: no-repeat,center,fixed;
-    -webkit-background-size:cover;
-    -moz-background-size:cover;
-    -o-background-size:cover;
-    background-size:cover;
+    width: 768px;
+    height: 1024px;
 
 }
 #ball{
