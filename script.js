@@ -12,5 +12,5 @@ $(document).ready(function(){
 	$('#batter2').draggable();
 	$('#batter3').draggable();
 	$('#batter4').draggable();
-	$('#ball').draggable();
+	$('#ball').hide();
 });
